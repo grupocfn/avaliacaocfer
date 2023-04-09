@@ -1,0 +1,9 @@
+{
+  "short_name": "Avaliação Ferramentas",
+  "name": "Pesquisa de Satisfação do Cliente na Casa das Ferramentas",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
